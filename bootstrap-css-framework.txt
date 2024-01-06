@@ -1,2 +1,16 @@
 belajar-bootstrap-css-framework
 
+Mengenal Bootstrap
+https://getbootstrap.com/docs/5.3/getting-started/introduction/
+https://getbootstrap.com/docs/5.3/components/alerts/
+https://getbootstrap.com/docs/5.3/components/buttons/
+https://getbootstrap.com/docs/5.3/components/card/
+https://getbootstrap.com/docs/5.3/components/modal/
+https://getbootstrap.com/docs/5.3/components/spinners/
+https://getbootstrap.com/docs/5.3/helpers/
+https://startbootstrap.com/themes
+https://colorlib.com/wp/themes/
+
+
+
+
