@@ -11,6 +11,10 @@ https://getbootstrap.com/docs/5.3/helpers/
 https://startbootstrap.com/themes
 https://colorlib.com/wp/themes/
 
+Cara Pakai Bootstrap dan Memahami Containers
+https://getbootstrap.com/docs/5.3/getting-started/introduction/
+https://getbootstrap.com/docs/5.3/layout/containers/
+
 
 
 
