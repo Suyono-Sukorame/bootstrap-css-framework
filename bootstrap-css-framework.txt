@@ -55,6 +55,11 @@ Studi Kasus Museum Arkeologi 1
 https://getbootstrap.com/docs/5.3/getting-started/introduction/
 https://releases.jquery.com/
 
+Studi Kasus Museum Arkeologi 2
+https://getbootstrap.com/docs/5.3/components/navbar/
+https://fonts.google.com/specimen/Nunito?query=nunito
+
+
 
 
 
