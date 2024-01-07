@@ -29,6 +29,12 @@ Mengenal Sistem Grid Bootstrap dan Manfaatnya
 https://getbootstrap.com/docs/5.3/layout/grid/
 
 Responsive design dengan Bootstrap
+https://getbootstrap.com/docs/5.3/layout/grid/
+
+Fungsi yang bermanfaat pada Grid
+https://getbootstrap.com/docs/5.3/components/accordion/
+https://getbootstrap.com/docs/5.3/components/carousel/
+https://getbootstrap.com/docs/5.3/utilities/flex/
 
 
 
