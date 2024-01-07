@@ -48,4 +48,6 @@ https://icons.getbootstrap.com/
 $ npm i bootstrap-icons
 https://getbootstrap.com/docs/5.3/forms/input-group/
 
+Kita campurkan fungsi-fungsi yang ada di dalam Boostrap pada Halaman
+
 
