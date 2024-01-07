@@ -19,6 +19,8 @@ Component Button
 https://getbootstrap.com/docs/5.3/components/buttons/
 https://getbootstrap.com/docs/5.3/components/button-group/
 
+Typography dan Kebutuhan lainnya yg bisa dimanfaatkan
+https://getbootstrap.com/docs/5.3/content/typography/
 
 
 
