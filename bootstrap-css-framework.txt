@@ -39,4 +39,10 @@ https://getbootstrap.com/docs/5.3/utilities/flex/
 Mendesain Form dengan Bootstrap
 https://getbootstrap.com/docs/5.3/forms/overview/
 
+Membuat Navbars dengan Bootstrap
+https://getbootstrap.com/docs/5.3/components/navbar/
+https://getbootstrap.com/docs/5.3/components/navs-tabs/
+
+
+
 
