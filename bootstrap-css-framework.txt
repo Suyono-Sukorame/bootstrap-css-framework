@@ -49,5 +49,12 @@ $ npm i bootstrap-icons
 https://getbootstrap.com/docs/5.3/forms/input-group/
 
 Kita campurkan fungsi-fungsi yang ada di dalam Boostrap pada Halaman
+https://getbootstrap.com/docs/5.3/utilities/borders/#border
+
+Studi Kasus Museum Arkeologi 1
+https://getbootstrap.com/docs/5.3/getting-started/introduction/
+https://releases.jquery.com/
+
+
 
 
