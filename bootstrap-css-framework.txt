@@ -26,6 +26,9 @@ Componen lencana, alert dan menggabungkan Button dengan bootstrap
 https://getbootstrap.com/docs/5.3/components/badge/
 
 Mengenal Sistem Grid Bootstrap dan Manfaatnya
+https://getbootstrap.com/docs/5.3/layout/grid/
+
+Responsive design dengan Bootstrap
 
 
 
