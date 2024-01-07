@@ -62,7 +62,8 @@ https://fonts.google.com/specimen/Nunito?query=nunito
 Studi Kasus Museum Arkeologi 3
 https://getbootstrap.com/docs/5.3/layout/containers/
 
-
+Studi Kasus Museum Arkeologi 4
+https://getbootstrap.com/docs/5.3/utilities/flex/#order
 
 
 
